@@ -1,12 +1,13 @@
 # Task Manager `made in Flutter`
 
 # Screens
-![Login](resources/login.jpeg)
+<img src="resources/login.jpeg" alt="Login" width="300">
 ----
-![Tarefas](resources/tarefas.jpeg)
+<img src="resources/login.jpeg" alt="Login" width="300">
 ----
-![Editar Tarefa](resources/editar_tarefa.jpeg)
+<img src="resources/editar_tarefa.jpeg" alt="Editar Tarefa" width="300">
 ----
-![Prioridades](resources/prioridades.jpeg)
+<img src="resources/prioridades.jpeg" alt="Prioridades" width="300">
 ----
-![Criar Tarefa](resources/criar_tarefa.jpeg)
+<img src="resources/criar_tarefa.jpeg" alt="Tarefa" width="300">
+----
