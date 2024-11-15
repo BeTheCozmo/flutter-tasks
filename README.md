@@ -3,7 +3,7 @@
 # Screens
 <img src="resources/login.jpeg" alt="Login" width="300">
 ----
-<img src="resources/login.jpeg" alt="Login" width="300">
+<img src="resources/tarefas" alt="Tarefas" width="300">
 ----
 <img src="resources/editar_tarefa.jpeg" alt="Editar Tarefa" width="300">
 ----
